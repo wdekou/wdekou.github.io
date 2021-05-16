@@ -3,6 +3,7 @@
 ---
 - 🔭 I’m currently making sure [irembo.gov.rw](https://irembo.gov.rw/home/citizen/all_services) run smothly.
 - 🌱 I'm enhancing my experience securing cloud-native apps running on top of Kubernetes.
+- 💬 Ask me about Google Cloud, Kubernetes, & Artificial Intelligence.
 
 <!--
 **wdekou/wdekou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
