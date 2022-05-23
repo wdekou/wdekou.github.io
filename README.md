@@ -1,9 +1,9 @@
 ### Hi there 👋 
-#### I'm _William DEKOU_, passionate about building products for millions why not billions of users!
+#### It's _William Dekou_, passionate about building products for millions of users; wait a minute why not for billions of users!
 ---
-- 🔭 I’m currently making sure [irembo.gov.rw](https://irembo.gov.rw/home/citizen/all_services) run smothly.
-- 🌱 I'm enhancing my experience securing cloud-native apps running on top of Kubernetes.
-- 💬 Ask me about Google Cloud, Kubernetes, & Artificial Intelligence.
+- 🔭 I’m currently helping Google Cloud's Customers take advantage of our best Data and ML products offering on GCP including Vertex AI, BigQuery, Dataflow, Dataproc, Data Fusion, etc.
+- 🌱 My journey kicked off with my passion for Kubernetes, and it's going on with Machine Learning. Who knows what's next! I'm focusing on what users want.
+- 💬 Ask me about Google Cloud, Kubernetes, Machine Learning, & Artificial Intelligence.
 
 <!--
 **wdekou/wdekou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
